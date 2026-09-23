@@ -2,13 +2,16 @@
     "campaignId":  "kiro-university-2026",
     "participantId":  "a4b8e498-b001-70e5-c39e-c301647dd442",
     "lessons":  [
-
-                ],
+        "lesson-5-powers",
+        "lesson-6-mcp"
+    ],
     "surfaces":  [
-
-                 ],
+        "ide"
+    ],
     "notes":  {
-
-              },
+        "lesson-5": "Powers panel opened, ready for power installation and keyword-based activation",
+        "lesson-6": "MCP configuration created with filesystem and fetch servers",
+        "date": "2026-09-23"
+    },
     "repoUrl":  "https://github.com/parv18050212/kiro-university-project"
 }
