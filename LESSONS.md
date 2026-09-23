@@ -1,5 +1,22 @@
 # Kiro University Challenge - Lessons Documentation
 
+## Status of Lessons 1-4
+
+**Important Note**: The Kiro University Challenge releases lessons progressively each day:
+- Mon Sept 21: Lessons 1-2
+- Tue Sept 22: Lessons 3-4  
+- **Wed Sept 23 (TODAY)**: Lessons 5-6 ✅ COMPLETED
+- Thu Sept 24: Lesson 7 + Bonuses
+
+If you missed Lessons 1-4 when they were released, see `LESSONS_1-4_INFO.md` for guidance on:
+- Where to find the lesson content (Discord, documentation, social media)
+- How to catch up before the final exam
+- Why the final exam is what really matters
+
+The final exam (opens Sept 25) is where all lessons are demonstrated and scored.
+
+---
+
 ## Lesson 5: Powers (500 credits)
 
 ### What are Kiro Powers?
